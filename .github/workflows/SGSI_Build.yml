@@ -8,8 +8,8 @@ on:
       types: [started]
     
 env:              
-  ROM_URL: 'https://get.hentaios.com/download_private_full?token=FiDIqqGjf7P3ehFqHQyuJ6qB7whNrjpmB'
-  ZIP_NAME: 'hentai.zip'
+  ROM_URL: 'http://ark.mikequ.top/Mikequ/搞机/hentai_alioth-SaltyIceCream-ota-sp1a.210812.016-Furry.10082125.zip'
+  ZIP_NAME: 'hentaios12.zip'
   OS_TYPE: 'Generic'
   BUILD_TYPE: 'ab'
   REPACK_NAME: 'SGSI.zip'
